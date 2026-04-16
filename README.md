@@ -1,5 +1,1 @@
-# dinamic.function
-
-dinamic function 
-
-
+arm assembler compiler
